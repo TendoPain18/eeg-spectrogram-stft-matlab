@@ -2,7 +2,7 @@
 
 A MATLAB-based analytical system for epileptic EEG signal analysis using Short-Time Fourier Transform (STFT) and spectrogram visualization. This project implements spectrogram generation from scratch to investigate window types, sizes, overlapping ratios, and time-frequency resolution trade-offs.
 
-[![Watch the video](images/youtube_window_1.png)](YOUR_YOUTUBE_LINK_HERE)
+[![Watch the video](images/youtube_window_1.png)](https://www.youtube.com/embed/-eynefx-WeI?si=aDDFVZ26DZhUDpwG)
 
 ## 📋 Description
 
@@ -12,7 +12,7 @@ The implementation includes a complete STFT from scratch using only MATLAB's bui
 
 <br>
 <div align="center">
-  <a href="YOUR_DOWNLOAD_LINK_HERE">
+  <a href="https://codeload.github.com/TendoPain18/eeg-spectrogram-stft-matlab/legacy.zip/main">
     <img src="https://img.shields.io/badge/Download-Files-brightgreen?style=for-the-badge&logo=download&logoColor=white" alt="Download Files" style="height: 50px;"/>
   </a>
 </div>
@@ -420,7 +420,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <br>
 <div align="center">
-  <a href="YOUR_DOWNLOAD_LINK_HERE">
+  <a href="https://codeload.github.com/TendoPain18/eeg-spectrogram-stft-matlab/legacy.zip/main">
     <img src="https://img.shields.io/badge/Download-Files-brightgreen?style=for-the-badge&logo=download&logoColor=white" alt="Download Files" style="height: 50px;"/>
   </a>
 </div>
